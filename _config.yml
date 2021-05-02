@@ -1,0 +1,28 @@
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: expanded
+permalink: '/:year/:title/'
+markdown: kramdown
+highlighter: pygments
+title: dotX
+description: A free Jekyll theme for download
+keywords: 'Jekyll, theme, free, download, SEO, blog, web'
+url: ''
+baseurl: ''
+author:
+  name: Fernando Moreira
+  job: Frontend Engineer
+  bio: >-
+    Enthusiast performance, responsive design and usability, always looking for
+    the best project and good coffee.
+  thumb: /images/author.jpg
+  email: nandomoreira.me@gmail.com
+  url: 'http://nandomoreira.me'
+  github: 'http://github.com/nandomoreirame'
+  twitter: 'http://twitter.com/nandomoreirame'
+  facebook: 'http://facebook.com/fernando.dev'
+  linkedin: 'http://linkedin.com/in/nandomoreirame'
+repo: 'http://github.com/nandomoreirame/dotX'
+disqus_shortname: fernandomoreira
